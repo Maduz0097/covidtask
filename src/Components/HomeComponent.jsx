@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import axios from "axios";
-import {Card, Button, Image, Col, Row, Modal} from "react-bootstrap";
+import {Card} from "react-bootstrap";
 export default class HomeComponent extends Component{
 
     constructor(props) {
